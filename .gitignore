@@ -3,5 +3,6 @@
 /simplify_logs
 test.py
 /.idea/
+*.ps1
 
 
